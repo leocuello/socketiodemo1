@@ -1,4 +1,4 @@
 socketiodemo1
 =============
 
-Ejemplo con web socket 1.0
+Ejemplo con web socket 1.2

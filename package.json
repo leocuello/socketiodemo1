@@ -1,0 +1,23 @@
+{
+  "name": "socketiodemo1",
+  "version": "1.0.0",
+  "description": "Ejemplo con socket.io 1.2",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leocuello/socketiodemo1"
+  },
+  "keywords": [
+    "socket.io",
+    "express"
+  ],
+  "author": "Leo Cuello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leocuello/socketiodemo1/issues"
+  },
+  "homepage": "https://github.com/leocuello/socketiodemo1"
+}
